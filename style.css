@@ -44,3 +44,8 @@ background-size: 20rem 25rem;
 background-position: right bottom;
 background-repeat: no-repeat;
 }
+
+form {
+  width: 684px;
+}
+
