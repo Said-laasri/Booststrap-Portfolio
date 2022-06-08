@@ -1,0 +1,54 @@
+.col {
+  padding-top: 5em;
+  height: 26em;
+}
+
+#card {
+  border-style: none;
+}
+
+ul li {
+  list-style: none;
+}
+.card-body p {
+  color: #000;
+  font-size: small;
+  text-align: start;
+  justify-content: start;
+}
+
+#project {
+  background-image: url(img/project1.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #000;
+  margin-bottom: 5rem;
+}
+
+#project p {
+  text-align: start;
+}
+
+#header4 {
+  color: orange;
+}
+
+.container-project {
+  margin-bottom: 10em;
+}
+
+#main-header {
+background-color: black;
+background-image: url(img/backg.svg);
+background-size: 20rem 25rem;
+background-position: right bottom;
+background-repeat: no-repeat;
+}
+
+#About-me {
+background-color: black;
+background-image: url(img/backgroundabout.svg);
+background-size: 20rem 25rem;
+background-position: right bottom;
+background-repeat: no-repeat;
+}
