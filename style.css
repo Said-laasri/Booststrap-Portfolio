@@ -1,5 +1,11 @@
+.col {
+  padding-top: 5em;
+  height: 20em;
+}
+
 .col h1,
 .col h2,
 .col p {
   color: #fff;
+  margin-left: -8em;
 }
