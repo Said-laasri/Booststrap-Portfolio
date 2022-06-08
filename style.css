@@ -45,7 +45,10 @@ background-position: right bottom;
 background-repeat: no-repeat;
 }
 
-form {
-  width: 684px;
+#About-me {
+background-color: black;
+background-image: url(img/backgroundabout.svg);
+background-size: 20rem 25rem;
+background-position: right bottom;
+background-repeat: no-repeat;
 }
-
