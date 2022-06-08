@@ -13,9 +13,11 @@
 .card {
   border-style: none;
 }
+
 .card-body p {
   color: #000;
   font-size: small;
   text-align: center;
   justify-content: center;
 }
+
